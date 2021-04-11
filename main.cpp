@@ -2,7 +2,6 @@
 The program compares 2 rectangles and determines which rectangle's area is
 greater (or if they are the same) according to a user's unput data.
 
-@author Vlada Foulke
 @version 10/18/2020
 *******************************************************************************/
 
